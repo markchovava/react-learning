@@ -1,0 +1,22 @@
+[
+    {"id":1,"name":"Oriental Soft Soap","price":"53.00","inStock":30,"fastDelivery":false,"ratings":3},
+    {"id":2,"name":"Recycled Soft Shirt","price":"262.00","inStock":0,"fastDelivery":true,"ratings":1},
+    {"id":3,"name":"Frozen Table","price":"260.00","inStock":11,"fastDelivery":false,"ratings":3},
+    {"id":4,"name":"Rubber Pants","price":"146.00","inStock":7,"fastDelivery":true,"ratings":5},
+    {"id":5,"name":"Oriental Steel Shirt","price":"938.00","inStock":30,"fastDelivery":true,"ratings":2},
+    {"id":6,"name":"Recycled Fresh Table","price":"524.00","inStock":0,"fastDelivery":true,"ratings":5},
+    {"id":7,"name":"Gorgeous Wooden Towels","price":"406.00","inStock":8,"fastDelivery":true,"ratings":5},
+    {"id":8,"name":"Electronic Fr' Shirt","price":"87.00","inStock":8,"fastDelivery":false,"ratings":3},
+    {"id":9,"name":"Cotton Keyboard","price":"602.00","inStock":0,"fastDelivery":true,"ratings":4},
+    {"id":10,"name":"Concrete Hat","price":"543.00","inStock":30,"fastDelivery":true,"ratings":3},
+    {"id":11,"name":"Wooden Gloves","price":"11.00","inStock":11,"fastDelivery":false,"ratings":1},
+    {"id":12,"name":"Soft Soap","price":"562.00","inStock":8,"fastDelivery":false,"ratings":2},
+    {"id":13,"name":"Tasty Metal Towels","price":"694.00","inStock":11,"fastDelivery":false,"ratings":5},
+    {"id":14,"name":"Generic Plastic Salad","price":"477.00","inStock":8,"fastDelivery":false,"ratings":2},
+    {"id":15,"name":"Awesome Rubber Table","price":"633.00","inStock":8,"fastDelivery":false,"ratings":2},
+    {"id":16,"name":"Granite Table","price":"858.00","inStock":7,"fastDelivery":false,"ratings":2},
+    {"id":17,"name":"Generic Plastic Gloves","price":"911.00","inStock":7,"fastDelivery":true,"ratings":5},
+    {"id":18,"name":"Soft Shoes","price":"381.00","inStock":11,"fastDelivery":false,"ratings":3},
+    {"id":19,"name":"Small Plastic Car","price":"888.00","inStock":11,"fastDelivery":false,"ratings":4},
+    {"id":20,"name":"Rustic Plastic Shoes","price":"175.00","inStock":30,"fastDelivery":true,"ratings":4}
+]
